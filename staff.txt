@@ -1,0 +1,4 @@
+admin|admin@fitzone.com|fitpass123
+booking|booking@fitzone.com|bookpass456
+accountant|accountant@fitzone.com|accpass789
+member|member@fitzone.com|memberpass

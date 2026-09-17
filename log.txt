@@ -1,0 +1,146 @@
+Log (ADMIN): Class usage report generated. Total bookings: 1
+Log (ADMIN): Class usage report generated. Total bookings: 1
+Log (ADMIN): Class usage report generated. Total bookings: 1
+Log (ADMIN): Class usage report generated. Total bookings: 1
+Log (ACCOUNTANT): Revenue calculated. Total: RM210.60
+Log (ACCOUNTANT): Revenue calculated. Total: RM210.60
+Log (ACCOUNTANT): Unpaid memberships report generated
+Log (ADMIN) : members file printed to view
+Log (ADMIN) : Classes file printed to view
+Log (ADMIN) : Classes file printed to view
+Log (ADMIN) : Classes file printed to view
+Log (ADMIN) : Classes file printed to view
+Log (ADMIN) : Classes file printed to view
+Log (ADMIN) : Classes file printed to view
+Log (ADMIN) : Classes file printed to view
+Log (ADMIN) : Classes file printed to view
+Log (ADMIN) : Classes file printed to view
+Log (ADMIN) : Classes file printed to view
+Log (ADMIN) : Classes file printed to view
+Log (ADMIN) : Classes file printed to view
+Log (ADMIN) : Classes file printed to view
+Log (ADMIN) : Classes file printed to view
+Log (ADMIN) : Classes file printed to view
+Log (ADMIN) : Classes file printed to view
+Log (ADMIN) : Classes file printed to view
+Log (ADMIN) : Classes file printed to view
+Log (USER): Class CS024 booked for Member MB101
+Log (USER): Class CS026 booked for Member MB101
+Log (ADMIN) : class CS201 was deleted from the classes file
+Log (ADMIN) : Trainer tr069 was add to the trainers file
+Log (ADMIN) : booking file printed to view
+Log (ADMIN) : booking file printed to view
+Log (ADMIN) : Classes file printed to view
+Log (ADMIN) : Classes file printed to view
+Log (ADMIN) : Classes file printed to view
+Log (ADMIN) : Classes file printed to view
+Log (ADMIN) : Classes file printed to view
+Log (ADMIN) : Classes file printed to view
+Log (ADMIN) : Classes file printed to view
+Log (ADMIN) : Classes file printed to view
+Log (ADMIN) : Classes file printed to view
+Log (ADMIN) : Classes file printed to view
+Log (ADMIN) : Classes file printed to view
+Log (ADMIN) : Classes file printed to view
+Log (ADMIN) : Classes file printed to view
+Log (ADMIN) : Classes file printed to view
+Log (ADMIN) : Classes file printed to view
+Log (ADMIN) : Classes file printed to view
+Log (ADMIN) : Classes file printed to view
+Log (ADMIN) : Classes file printed to view
+Log (ADMIN) : Classes file printed to view
+Log (ADMIN) : Classes file printed to view
+Log (ADMIN) : Classes file printed to view
+Log (ADMIN) : Classes file printed to view
+Log (ADMIN) : Classes file printed to view
+Log (ADMIN) : Classes file printed to view
+Log (ADMIN) : Classes file printed to view
+Log (ADMIN) : Classes file printed to view
+Log (ADMIN) : Classes file printed to view
+Log (ADMIN) : Classes file printed to view
+Log (ADMIN) : Classes file printed to view
+Log (ADMIN) : Classes file printed to view
+Log (ADMIN) : Classes file printed to view
+Log (ADMIN) : Classes file printed to view
+Log (ADMIN) : Classes file printed to view
+Log (ADMIN) : Classes file printed to view
+Log (ACCOUNTANT): Revenue calculated. Total: RM210.60
+Log (ACCOUNTANT): Unpaid memberships report generated
+Log (ADMIN): Class usage report generated. Total bookings: 2
+Log (USER): New member registered: MB102
+Log (USER): Available gym classes viewed
+Log (USER): Booking management performed by MB101 - Action: Rescheduled
+Log (ADMIN) : Classes file printed to view
+Log (ADMIN) : Classes file printed to view
+Log (ADMIN) : Classes file printed to view
+Log (ADMIN) : Classes file printed to view
+Log (ADMIN) : Classes file printed to view
+Log (ADMIN) : Classes file printed to view
+Log (ADMIN) : Classes file printed to view
+Log (ADMIN) : Classes file printed to view
+Log (ADMIN) : Classes file printed to view
+Log (ADMIN) : Classes file printed to view
+Log (ADMIN) : Classes file printed to view
+Log (ADMIN) : Classes file printed to view
+Log (ADMIN) : Classes file printed to view
+Log (ADMIN) : Classes file printed to view
+Log (ADMIN) : Classes file printed to view
+Log (ADMIN) : Classes file printed to view
+Log (ADMIN) : Classes file printed to view
+Log (USER): Class CS002 booked for Member MB101
+Log (ADMIN) : class CS229 was add to the classes file
+Log (ADMIN) : booking file printed to view
+Log (ADMIN) : booking file printed to view
+Log (ADMIN) : Classes file printed to view
+Log (ADMIN) : Classes file printed to view
+Log (ADMIN) : Classes file printed to view
+Log (ADMIN) : Classes file printed to view
+Log (ADMIN) : Classes file printed to view
+Log (ADMIN) : Classes file printed to view
+Log (ADMIN) : Classes file printed to view
+Log (ADMIN) : Classes file printed to view
+Log (ADMIN) : Classes file printed to view
+Log (ADMIN) : Classes file printed to view
+Log (ADMIN) : Classes file printed to view
+Log (ADMIN) : Classes file printed to view
+Log (ADMIN) : Classes file printed to view
+Log (ADMIN) : Classes file printed to view
+Log (ADMIN) : Classes file printed to view
+Log (ADMIN) : Classes file printed to view
+Log (ADMIN) : Classes file printed to view
+Log (ADMIN) : Classes file printed to view
+Log (ADMIN) : number of members printed to view
+Log (ADMIN): Class usage report generated. Total bookings: 2
+Log (ACCOUNTANT): Revenue calculated. Total: RM210.60
+Log (ACCOUNTANT): Unpaid memberships report generated
+Log (USER): New member registered: MB103
+Log (USER): Available gym classes viewed
+Log (USER): Class CS229 booked for Member MB103
+Log (USER): Booking management performed by MB103 - Action: Rescheduled
+Log (USER): Available gym classes viewed
+Log (ACCOUNTANT): updated payment status for MB103 from unpaid to Paid
+Log (ACCOUNTANT): Payment PAY1002 recorded for Member MB103
+Log (ACCOUNTANT): Revenue calculated. Total: RM421.20
+Log (ACCOUNTANT): Unpaid memberships report generated
+Log (ACCOUNTANT): Package selection analysis generated
+Log (ACCOUNTANT): updated payment status for MB103 from unpaid to Paid
+Log (ACCOUNTANT): Payment PAY1003 recorded for Member MB103
+Log (ADMIN) : Classes file printed to view
+Log (ADMIN) : Classes file printed to view
+Log (ADMIN) : Classes file printed to view
+Log (ADMIN) : Classes file printed to view
+Log (ADMIN) : Classes file printed to view
+Log (ADMIN) : Classes file printed to view
+Log (ADMIN) : Classes file printed to view
+Log (ADMIN) : Classes file printed to view
+Log (ADMIN) : Classes file printed to view
+Log (ADMIN) : Classes file printed to view
+Log (ADMIN) : Classes file printed to view
+Log (ADMIN) : Classes file printed to view
+Log (ADMIN) : Classes file printed to view
+Log (ADMIN) : Classes file printed to view
+Log (ADMIN) : Classes file printed to view
+Log (ADMIN) : Classes file printed to view
+Log (ADMIN) : Classes file printed to view
+Log (ADMIN) : Classes file printed to view
+Log (USER): Class CS229 booked for Member MB999
